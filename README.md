@@ -3,7 +3,6 @@
 
 ## I'm a Junior High School student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning JavaScript language.
 - 👀 I'm interested in becoming a Front-End Web Developer.
 
