@@ -26,5 +26,5 @@
 <br />
 
 ---
-[youtube]: https://youtube.com/NavdPlay
+[youtube]: https://www.youtube.com/channel/UCgwESuPZOdWqw7Rz2L65t_g
 [instagram]: https://instagram.com/NavdPlay
