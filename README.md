@@ -4,7 +4,7 @@
 ## I'm a Junior High School student!!
 
 - 🌱 Sedang mempelajari JavaScript dan jQuery
-- 👀 Tertarik untuk menjadi front-end developer
+- 👀 Ingin menjadi front-end developer
 
 ### Get in touch:
 
