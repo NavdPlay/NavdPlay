@@ -1,8 +1,6 @@
 ### Halo, perkenalkan saya NavdPlay 👋
-
-
-## I'm a Junior High School student!!
-
+#### Normal junior highschool student who likes to do internal JS and CSS
+---
 - 🌱 Sedang mempelajari JavaScript dan jQuery
 - 👀 Ingin menjadi front-end developer
 
