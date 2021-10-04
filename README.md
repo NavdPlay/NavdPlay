@@ -1,4 +1,4 @@
-### Halo, perkenalkan saya NavdPlay 👋
+### Hello, my name is Atilla or NavdPlay for online name 👋
 #### Normal junior highschool student who likes to do internal JS and CSS
 ---
 - 🌱 Currently learning JavaScript dan jQuery
