@@ -30,7 +30,7 @@
 ---
 
 <p align="left">
-<a href="https://github.com/rampfox">
+<a href="https://github.com/NavdPlay">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NavdPlay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NavdPlay&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -38,4 +38,4 @@
 
 [website]: https://navdplay.github.io/Portfolio/
 [youtube]: https://www.youtube.com/channel/UCgwESuPZOdWqw7Rz2L65t_g
-[instagram]: https://instagram.com/navdplay
+[instagram]: https://instagram.com/nerosann_
