@@ -2,10 +2,10 @@
 
 [![website](https://img.shields.io/website?label=visit%20my%20website&style=for-the-badge&url=https%3A%2F%2Fnavdplay.github.io%2FPortfolio%2F)](https://navdplay.github.io/Portfolio)
 
-## I'm a Middle School student, and a beginner WebDev!!
+## I'm a High School student, and a beginner WebDev!!
 
 - 🌱 I’m currently learning PHP and MySQL
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Building a new portfolio website
 - ⚡ Fun fact: I can't make a baloon using bubblegum 🤷‍♂️
 
 ### Connect with me:
